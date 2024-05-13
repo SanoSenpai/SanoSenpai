@@ -12,6 +12,7 @@ Postman API · Chrome DevTools: Exploring the realms of API testing and debuggin
 
 React · Angular: Building dynamic and responsive user interfaces for modern web applications is my current adventure.
 Java: Navigating the world of Java development, with a focus on ensuring code efficiency and reliability.
+JavaScript · TypeScript: Harnessing the flexibility and typing advantages of JavaScript and TypeScript for robust web development.
 
 🔧 On GitHub, you'll find a mix of personal projects, and perhaps some fun experiments I've been tinkering with, also things I did when I was a student.
 
